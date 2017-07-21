@@ -1,0 +1,12 @@
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.frmban.resources
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.frmClient.resources
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.CodeAnalysisLog.xml
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.lastcodeanalysissucceeded
+C:\Users\Leonardo Terrero\Desktop\Cajero Automatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
